@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color: #D0D0D0;
+}
+
+h1 {
+    text-align: center;
+    background-color: #3BB08F;
+}
+
+body p {
+    background-color: white;
+}
+
+.la {
+    background-color: #3BB08F;
+    font-size: 25px;
+}
+
+header p {
+    background-color: #3BB08F;
+}
+
+header {
+    background-color: #3BB08F;
+}
+
+header a {
+    background-color: #3BB08F;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 55px;
+}
