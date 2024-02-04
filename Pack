@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>  </title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+        <header>
+            <a href="https://www.kino-teatr.ru/kino/movie/ros/176482/annot/"> Подробнее </a>
+            <a href="https://www.kino-teatr.ru/kino/movie/ros/176482/titr/"> Актёры </a>
+            <a href="https://www.kino-teatr.ru/kino/movie/ros/176482/video/">Трейлер </a>
+            <a href="https://www.kino-teatr.ru/kino/movie/ros/176482/poster/">Постеры </a>
+        </header>
+        <main>
+        <h1> Сериал "Котострова"</h1>
+        <img src="https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/2831248/xMUOJM5jVqA0JBNfeHqmw.jpg"/>
+        <p class="la"> <b> Информация о фильме </b></p>
+        <p> Семья Мягковых вынуждена продать свой дом и переселиться в старую квартиру. Но обнаружилось, что в ней уже есть хозяин — рыжий кот, который совершенно не рад новым соседям и не скрывает этого. Попытки поймать и выселить пушистого вредителя проваливаются одна за другой. Глава семьи Михаил готов на решительный шаг, чтобы избавиться от кота, но случайно наступает на поврежденный удлинитель, и они получают мощный удар током. Придя в себя, глава семьи обретает сверхспособность слышать и понимать рыжего проказника. В новых обстоятельствах Мягковы решают оставить кота в доме, и с этого момента жизнь обычной московской семьи меняется. </p>
+        </main>
+    </body>
+    <footer>
+    </footer>
+</html>
